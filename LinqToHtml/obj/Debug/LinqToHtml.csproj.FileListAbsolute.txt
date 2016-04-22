@@ -1,0 +1,5 @@
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\LinqToHtml\obj\Debug\LinqToHtml.csprojResolveAssemblyReference.cache
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\LinqToHtml\bin\Debug\LinqToHtml.dll
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\LinqToHtml\bin\Debug\LinqToHtml.pdb
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\LinqToHtml\obj\Debug\LinqToHtml.dll
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\LinqToHtml\obj\Debug\LinqToHtml.pdb

@@ -1,0 +1,8 @@
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\bin\Debug\Test.exe.config
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\bin\Debug\Test.exe
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\bin\Debug\Test.pdb
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\bin\Debug\LinqToHtml.dll
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\bin\Debug\LinqToHtml.pdb
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\obj\Debug\Test.exe
+c:\users\gfli\documents\visual studio 2013\Projects\LinqToHtml\Test\obj\Debug\Test.pdb
